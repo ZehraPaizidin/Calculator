@@ -1,0 +1,35 @@
+ .div {
+
+     width: 30%;
+     height: 600px;
+     margin: 0 auto;
+ }
+
+
+ .inp {
+     width: 81.5%;
+     height: 100px;
+     background: rgb(0, 0, 0);
+     font-size: 30px;
+     color: white;
+     text-align: end;
+ }
+
+ .inp:hover {
+     background-color: aqua;
+
+ }
+
+ .btn {
+     width: 125px;
+     height: 70px;
+     font-size: 30px;
+     background-color: rgb(32, 30, 28);
+     color: white;
+     transition: 0, 5s;
+ }
+
+ .btn:hover {
+     background-color: aqua;
+
+ }
